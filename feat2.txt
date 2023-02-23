@@ -1,1 +1,2 @@
 This is feat 2
+More text of feat 2
